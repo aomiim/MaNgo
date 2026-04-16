@@ -42,7 +42,7 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "ดีกันขนาดนี้ ให้ใจไปและ 😳🚀💝",  // Shows when they go past 5000%
+        extreme: "เอาใจเค้าไปเยย 😳🚀💝",  // Shows when they go past 5000%
         high: "ดีกะได้ 🚀💝",              // Shows when they go past 1000%
         normal: "ดีนิดนึง 🥰"                           // Shows when they go past 100%
     },
