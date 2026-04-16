@@ -5,11 +5,11 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "แบม",
+    valentineName: "น้องมายด์",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
-    pageTitle: "Happy Valentine day na 💝",
+    pageTitle: "มาง้ออออออ 💝",
 
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
@@ -22,14 +22,14 @@ const CONFIG = {
     // Customize each question and its possible responses
     questions: {
         first: {
-            text: "มีคนให้ของขวัญรึยังง",                                    // First interaction
-            yesBtn: "มี",                                             // Text for "Yes" button
-            noBtn: "ไม่มี",                                               // Text for "No" button
-            secretAnswer: "แอบมองเธออยู่นะจ๊ะ กดตรงนี้ ❤️"           // Secret hover message
+            text: "ดีกันน้าคั้บบ",                                    // First interaction
+            yesBtn: "ดีแน้ว",                                             // Text for "Yes" button
+            noBtn: "ไม่ดีด้วยหรอก",                                               // Text for "No" button
+            secretAnswer: "ตาทิพย์ กดตรงนี้ ❤️"           // Secret hover message
         },
         second: {
-            text: "ถ้าให้ของขวัญชิ้นนี้ไปจะชอบไหมมม",                          // For the love meter
-            startText: "เท่านี้",                                   // Text before the percentage
+            text: "ดีกานนน้า เกี่ยวก้อย🥺 ",                          // For the love meter
+            startText: "เกี่ยววว",                                   // Text before the percentage
             nextBtn: "แล้ว ❤️"                                         // Text for the next button
         },
         third: {
@@ -78,7 +78,7 @@ const CONFIG = {
     music: {
         enabled: true,                     // Music feature is enabled
         autoplay: true,                    // Try to autoplay (note: some browsers may block this)
-        musicUrl: "https://res.cloudinary.com/dpf00wbva/video/upload/v1770990673/%E0%B8%A5%E0%B8%AD%E0%B8%87_short_zu491n.mp3", // Music streaming URL
+        musicUrl: "https://res.cloudinary.com/dpf00wbva/video/upload/v1776314793/No_One_Else_-___OFFICIAL_MV_mp3cut.net_r1ljex.mp3", // Music streaming URL
         startText: "🎵 Play Music",        // Button text to start music
         stopText: "🔇 Stop Music",         // Button text to stop music
         volume: 0.4                        // Volume level (0.0 to 1.0)
