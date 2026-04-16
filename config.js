@@ -29,8 +29,8 @@ const CONFIG = {
         },
         second: {
             text: "ดีกานนน้า เกี่ยวก้อย🥺 ",                          // For the love meter
-            startText: "เกี่ยววว",                                   // Text before the percentage
-            nextBtn: "แล้ว ❤️"                                         // Text for the next button
+            startText: "อ่ะ เกี่ยว",                                   // Text before the percentage
+            nextBtn: "มีอีกๆ ❤️"                                         // Text for the next button
         },
         third: {
             text: "ชอบที่ให้ม้ายย 🌹", // The big question!
@@ -42,15 +42,15 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "ให้ขนาดนี้ เขินแย่เบยย 😳🚀💝",  // Shows when they go past 5000%
-        high: "ให้ได้อีกเป่าาา 🚀💝",              // Shows when they go past 1000%
-        normal: "เท่านี้เองหรอ 🥰"                           // Shows when they go past 100%
+        extreme: "ดีกันขนาดนี้ ให้ใจไปและ 😳🚀💝",  // Shows when they go past 5000%
+        high: "ดีกะได้ 🚀💝",              // Shows when they go past 1000%
+        normal: "ดีนิดนึง 🥰"                           // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "เย่ๆๆๆ ขอบคุณน้าาา 🎉💝💖💝💓",
-        message: "ขอให้วันนี้และวันอื่นๆเป็นวันที่ดีของแบมนะคับ!",
+        title: "เย่ๆๆๆ 🎉💝💖💝💓",
+        message: "ถ้าเค้าทำอะไรผิดไปเค้าขอโทษน้าแล้วเค้าพร้อมจาปรับปรุงคั้บ Miss you 3000",
         emojis: "🎁💖🤗💝❤️💕"  // These will bounce around
     },
 
